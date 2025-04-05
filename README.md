@@ -2,7 +2,7 @@
 Você deve preparar uma pasta onde todos os processos ocorrerão. Uma vez criada, crie um arquivo "initial_path.txt" que contenha o caminho completo até esta pasta. Salve esse txt dentro dessa mesma pasta.
 
 # Salvando os conjuntos de dados
-Os dados para este projeto podem ser obtidos no Kaggle blablalabla
+Os dados para este projeto podem ser obtidos no Kaggle "www.kaggle.com/datasets/mateussrocha/doc-datasets"
 
 ## Dados de estações
 Os dados de estações devem já estar descompactados, em formatos .csv, numa pasta denominada "0. bruto".
